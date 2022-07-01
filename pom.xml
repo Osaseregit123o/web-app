@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.80.254:8081/repository/rbcc-app-release/</url>
+	      <url>http://172.31.80.254:8081/repository/shared-lib-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
